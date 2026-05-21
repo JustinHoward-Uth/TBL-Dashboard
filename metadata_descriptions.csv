@@ -1,0 +1,17 @@
+﻿Category,code,description
+Wafer_Type,L1,PoPt no cactus
+Wafer_Type,R12,PoPt with cactus
+Wafer_Type,R3,Rough Pt
+Wafer_Type,R4,Rough Pt
+Wafer_Type,R6,Pt no cactus/PoPt
+Wafer_Type,R7,PoPt with cactus
+Wafer_Type,R8,PoPt with cactus
+AJP_Pattern,B1,"MacAc PVP_1,P3 or P4, BRN PCB to right column of DiSc cylinder, 4-column electrode pattern"
+AJP_Pattern,L6,"RatEP,Selective connection, more channels on bottom ring"
+AJP_Pattern,M1,"RatEp PVP_1(mirror),P3 or P4, BRN PCB to right column of DiSc cylinder, 4-column electrode pattern"
+AJP_Pattern,M4,"RatEp PVP_1(mirror),Selective connection (cortex and thalamus)"
+AJP_Pattern,M5,"RatEp PVP_1(mirror),Selective to form diamond pattern across array "
+AJP_Pattern,O9,"MacCCh,BrN PCB, MacChr or similar with 2 internal REFs, 128 channels"
+AJP_Pattern,S1,"RatEp PVP_1 ,P3 or P4, BRN PCB to right column of DiSc cylinder, 4-column electrode pattern"
+AJP_Pattern,S3,"RatEp PVP_1,Selective connection (cortex and thalamus)"
+AJP_Pattern,S5,"RatEp PVP_1,Selective to form diamond pattern across array "
